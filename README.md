@@ -87,7 +87,7 @@ Sure! Here’s a structured GitHub-level documentation for setting up WebDriverI
 2. **Install WebDriverIO and Appium**
    - Run the following command:
      ```bash
-     npx wdio config
+     npm init wdio <folder_name> --save-dev
      ```
    - Follow the prompts:
      - **Type of testing**: E2E Testing - Web or Mobile Applications.
