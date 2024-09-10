@@ -99,7 +99,7 @@ Sure! Here’s a structured GitHub-level documentation for setting up WebDriverI
 
 #### 5. Emulator and APK Setup
 
-1. **Create a Batch File for Emulator**
+1. **Create a Bat File for Emulator**
    - Create a `.bat` file to start your emulator (e.g., `Shiva.bat`):
      ```batch
      cd C:\Users\<YourUserName>\AppData\Local\Android\Sdk\emulator
